@@ -6,6 +6,12 @@
     </strong>
 </p>
 
+<p align="center" width="100%">
+  <img src="./result.png" alt="Mandelbrot" width="300"/>
+  <br/>
+    <em>Mandelbrot</em>
+</p
+
 ## What is the Mandelbrot Set? 🤔
 
 The Mandelbrot set, discovered by Benoît Mandelbrot in the late 1970s, is one of the most famous examples of a **fractal** – a complex, infinitely detailed geometric shape. It lives in the **complex plane**, where numbers have both a real part and an imaginary part (like $a + bi$).
