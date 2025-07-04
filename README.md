@@ -1,3 +1,9 @@
+<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
+
+---
+
 <h1 align="center" id="top">Mandelbrot Magic ✨🌀</h1>
 
 <p align="center">
@@ -65,5 +71,3 @@ This project lets you explore this fascinating mathematical object right in your
 *   Select a location from the "Presets ✨" dropdown to load specific settings.
 *   Click the "Render!" button.
 *   Wait for the "⏳ Rendering, please wait..." message to disappear and see the updated fractal on the right!
-
----
